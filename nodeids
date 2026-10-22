@@ -1,0 +1,15 @@
+[
+  "backend/tests/test_app.py::test_activity_submit",
+  "backend/tests/test_app.py::test_caregiver_can_create_medication_reminder",
+  "backend/tests/test_app.py::test_chat_missing_memory",
+  "backend/tests/test_app.py::test_invalid_login",
+  "backend/tests/test_app.py::test_login_demo_person",
+  "backend/tests/test_app.py::test_memory_list_and_islamabad_retrieval",
+  "backend/tests/test_app.py::test_mood_and_routine_crud",
+  "backend/tests/test_app.py::test_person_cannot_create_medication_reminder",
+  "backend/tests/test_app.py::test_person_cannot_open_caregiver_overview",
+  "backend/tests/test_app.py::test_unauthorized_memories",
+  "backend/tests/test_health.py::test_health_ok_without_ai_keys",
+  "backend/tests/test_health.py::test_ready_connects_to_sqlite",
+  "backend/tests/test_health.py::test_root_returns_product_identity"
+]
